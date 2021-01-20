@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\Classintro.csproj": {}
+    "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\Classintro.csproj": {
+    "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\Classintro.csproj",
-        "projectName": "Classintro",
-        "projectPath": "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\Classintro.csproj",
+        "projectUniqueName": "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\ClassIntro.csproj",
+        "projectName": "ClassIntro",
+        "projectPath": "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\İLHAN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\İLHAN\\Source\\Repos\\Kampintro\\Classintro\\obj\\",
         "projectStyle": "PackageReference",
