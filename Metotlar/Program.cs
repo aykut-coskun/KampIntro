@@ -10,7 +10,7 @@ namespace Metotlar
             double fiyatı = 15;
             string aciklama = "Amasya elması";
 
-            string[] meyveler = new string[] { };
+            //string[] meyveler = new string[] { }; örnek için yazıldı
 
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
